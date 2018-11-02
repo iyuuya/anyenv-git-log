@@ -1,7 +1,7 @@
 # anyenv-git-log
 [anyenv](https://github.com/riywo/anyenv) plugin that provides `anyenv git-log` command to display git log
 
-## Instlattion
+## Installation
 
 
 Simply clone the repository into the plugins directory:
